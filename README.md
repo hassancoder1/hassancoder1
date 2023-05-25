@@ -1,7 +1,7 @@
 # <center>👋 Hello, I'm HASSAN ALI ! 👨‍💻</center>
 
-<!-- Banner image -->
-<img src="https://img.freepik.com/free-photo/black-frame-with-copy-space-top-view_23-2148643791.jpg?w=826&t=st=1685022906~exp=1685023506~hmac=e5cb28815164eb8fd104b63bf01c1420d540960a0ffe1194b6b8a2db3cc747eb" alt="Banner image" width="100%" height="100%">
+<!-- Banner image 
+<img src="https://img.freepik.com/free-vector/flat-design-geometric-background_23-2148936031.jpg?w=740&t=st=1685023159~exp=1685023759~hmac=f813272adb493dc0e625a594088fddd3f525ec1272a2c0737210ee72d3e51b67" alt="Banner image" width="100%" height="100%"> -->
 
 
 ## 🌟 About Me
