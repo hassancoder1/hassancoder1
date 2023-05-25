@@ -1,5 +1,9 @@
 # <center>👋 Hello, I'm HASSAN ALI ! 👨‍💻</center>
 
+<!-- Banner image -->
+<img src="https://img.freepik.com/free-photo/black-frame-with-copy-space-top-view_23-2148643791.jpg?w=826&t=st=1685022906~exp=1685023506~hmac=e5cb28815164eb8fd104b63bf01c1420d540960a0ffe1194b6b8a2db3cc747eb" alt="Banner image" width="100%" height="100%">
+
+
 ## 🌟 About Me
 Welcome to corner of the digital universe! 🌌 I'm a skilled PHP Web Developer, WordPress Developer, Graphics Designer, and Fillable PDF Forms Creator with over three years of experience in crafting exceptional online experiences. ✨
 
