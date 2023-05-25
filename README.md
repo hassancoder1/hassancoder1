@@ -26,7 +26,7 @@ In addition to website development, I offer a range of services tailored to meet
 
 🔐 **Website-related Troubleshooting**: Stuck with website issues? Let me be your tech superhero! From migration challenges to SSL configuration, domain and hosting hiccups to uploading source files, I'll unravel those knots and get your website back on track.
 
-🔗 **Portfolio**: Check out my [portfolio](https://hassancoder.com){:target="_blank"} to see examples of my work and get inspired!
+🔗 **Portfolio**: Check out my [portfolio](https://hassancoder.com) to see examples of my work and get inspired!
 
 ## 🛠️ Tools of the Trade
 To create top-notch digital experiences, I rely on an arsenal of powerful tools:
@@ -38,18 +38,18 @@ To create top-notch digital experiences, I rely on an arsenal of powerful tools:
 ## 🌟 Get in Touch
 I'm excited to embark on this digital journey with you! If you're in need of a customized website, a WordPress site, high-quality graphics, digitally fillable forms, or any other web-related service, I'm here to make it happen.
 
-Feel free to reach out to me through [Instagram](https://instagram.com/hassancoder/){:target="_blank"} or connect with me on [LinkedIn](https://www.linkedin.com/in/hassancoder){:target="_blank"}. Let's create something extraordinary together! 🚀
+Feel free to reach out to me through [Instagram](https://instagram.com/hassancoder/) or connect with me on [LinkedIn](https://www.linkedin.com/in/hassancoder). Let's create something extraordinary together! 🚀
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hassancoder){:target="_blank"}
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook)](https://www.facebook.com/hassancoder1){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/hassancoder/){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://www.twitter.com/hassancoder1){:target="_blank"}
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:hassanraoofficial@gmail.com){:target="_blank"}
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it%20out-orange)](https://hassancoder.com){:target="_blank"}
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square)](https://github.com/hassancoder1){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hassancoder)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook)](https://www.facebook.com/hassancoder1)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/hassancoder/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://www.twitter.com/hassancoder1)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:hassanraoofficial@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it%20out-orange)](https://hassancoder.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square)](https://github.com/hassancoder1)
 
 </div>
